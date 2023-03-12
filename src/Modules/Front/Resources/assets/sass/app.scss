@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import "components/heading";
+@import "components/form";
+
+html,
+body {
+    font-family: "Noto Sans JP", sans-serif;
+    color: #4b4b4b;
+}
