@@ -1,6 +1,7 @@
 .idea
 .vscode
 .env
+.DS_Store
 /src/public/build
 /src/node_modules
 /src/public/build
